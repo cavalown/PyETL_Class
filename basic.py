@@ -44,6 +44,9 @@ print(article_title[0].text)
 first_article_title = soup.select_one('div[class="title"]')
 print(first_article_title.text)
 
+article_title = soup.select('div[class="title"]')
+print(article_title)
+
 article_author = soup.select('div[class= "author"]')
 print(article_author[5].text)
 
