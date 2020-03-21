@@ -5,3 +5,4 @@
 3. cookie
 4. exceptions
 5. recursive: many pages
+6. recursive: all pages
