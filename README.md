@@ -4,4 +4,4 @@
 2. all real article title and url : for + select/findAll
 3. cookie
 4. exceptions
-5. recursive:all pages
+5. recursive: pages
