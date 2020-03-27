@@ -10,5 +10,5 @@
 08. ptt article with cookies: title, content, push-up-down, score
 09. select: with nested tags
 10. orange tech: 下滑會增加內容的網頁
-11. dcard down pictures
+11. dcard download pictures
 12. PyETL_104 Pravtice 1
